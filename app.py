@@ -21,4 +21,4 @@ def account():
 
 
 if __name__ == "__main__": #checking if __name__'s value is '__main__'. __name__ is an python environment variable who's value will always be '__main__' till this is the first instatnce of app.py running
-    app.run(debug=True,port=4949) #running flask (Initalised on line 4)
+    app.run(debug=True,port=4848) #running flask (Initalised on line 4)
